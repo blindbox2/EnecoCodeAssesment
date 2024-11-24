@@ -182,7 +182,7 @@ I also noticed that the dataset wasn't close to equally distributed on the param
 I think this in combination with the shortcuts I took lead to the fact that I did get results, but they weren't meaningful.
 
 ## Question 8: Capture the flag
-I quite liked this addition, it reminded me of the CTE events that are hosted within the ethical hacking community.
+I quite liked this addition, it reminded me of the CTF events that are hosted within the ethical hacking community.
 
 During the assignemnts I found the following flags:
 - Analzying the DNS record: FLAG{2f0056e5-cac9-4ad5-87e9-dfea199f40f6}
