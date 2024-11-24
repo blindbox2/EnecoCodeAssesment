@@ -1,6 +1,8 @@
 # Write up for Eneco BTO Data CODE assessment
 Author: Rick de Harder
 
+In order to run the python code some packages are required, these can be found in the requirements.txt
+
 ## Question 1 & 2:
 Code: q1andq2.py
 
